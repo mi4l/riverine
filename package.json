@@ -1,0 +1,19 @@
+{
+  "name": "riverine",
+  "version": "0.0.0",
+  "description": "A React audio component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskalandunas/riverine.git"
+  },
+  "author": "Mike Skalandunas <mskalandunas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mskalandunas/riverine/issues"
+  },
+  "homepage": "https://github.com/mskalandunas/riverine#readme"
+}
