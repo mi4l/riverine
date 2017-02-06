@@ -2,6 +2,19 @@
   "name": "riverine",
   "version": "0.0.0",
   "description": "A React audio component.",
+  "keywords": [
+    "react-component",
+    "react",
+    "audio",
+    "html media",
+    "music player",
+    "player",
+    "music",
+    "sound",
+    "mosaic",
+    "riverine",
+    "architect"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +28,13 @@
   "bugs": {
     "url": "https://github.com/mskalandunas/riverine/issues"
   },
-  "homepage": "https://github.com/mskalandunas/riverine#readme"
+  "homepage": "https://github.com/mskalandunas/riverine#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.22.0"
+  }
 }
