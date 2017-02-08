@@ -1,6 +1,6 @@
 {
   "name": "riverine",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A React audio component.",
   "keywords": [
     "react-component",
@@ -31,10 +31,12 @@
   },
   "homepage": "https://github.com/mskalandunas/riverine#readme",
   "dependencies": {
+    "font-awesome": "^4.7.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
   "devDependencies": {
+    "babel-cli": "^6.22.2",
     "babel-preset-latest": "^6.22.0",
     "babel-preset-react": "^6.22.0"
   }
