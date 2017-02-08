@@ -1,6 +1,6 @@
 # Riverine
 
-A simple, lightweight wrapper for the HTML media element, specifically targeting audio functionality.  There is no styling included in this wrapper.
+A simple, lightweight wrapper for the HTML media element, specifically targeting audio functionality.  There is no styling included in this wrapper.  (Check out Riverine's docs here.)[http://riverine.surge.sh/]
 
     npm i riverine --save
 
