@@ -158,7 +158,7 @@ class Riverine extends React.component {
     this.hover.style.width = '0px';
   }
 
-  render : function() {
+  render() {
     return (
       <section>
         <audio id={_util_.newId(this.props.playerId)} preload="true" onDurationChange={this.returnDuration} onTimeUpdate={this.updateTime} loop={this.props.loop}>
